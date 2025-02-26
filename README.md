@@ -2,6 +2,12 @@
 
 🚀 I'm an aspiring **AI Engineer & Software Developer**, passionate about **Machine Learning, Game AI, and Scalable Software Systems**.  
 
+## 🎓 Education  
+🎓 **Vietnam National University, Ho Chi Minh City - University of Science (HCMUS) - Ongoing**  
+- Major: **Computer Science**
+  
+🎓 **Tran Hung Dao High school for the gifted - Graduated**  
+
 ## 👀 Interests  
 - **Artificial Intelligence (AI) & Machine Learning (ML)**  
 - **Software Development & Scalable System Design**  
