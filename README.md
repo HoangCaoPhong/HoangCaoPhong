@@ -6,7 +6,7 @@
 🎓 **Vietnam National University, Ho Chi Minh City - University of Science (HCMUS) - Ongoing**  
 - Major: **Computer Science**
   
-🎓 **Tran Hung Dao High school for the gifted - Graduated**  
+🎓 **Tran Hung Dao High school for the Gifted, Phan Thiet City, Binh Thuan, Vietnam - Graduated**  
 
 ## 👀 Interests  
 - **Artificial Intelligence (AI) & Machine Learning (ML)**  
