@@ -51,7 +51,7 @@
 
 
 ## 🏆 Awards & Certifications  
-
+- 💻 **Python Fundamentals** – Certified by CodeLearn.io *(Mar 2025)*  
 - 🏅 **Medical Imaging** – Certified by Kyoto Institute of Technology, Japan *(Feb 2025)*  
 - 🤖 **Robot Program** – Certified by the United States Consulate General, Ho Chi Minh City *(Oct 2024)*  
 - 🏆 **Third Prize – Provincial Informatics Competition** *(Oct 2023)*  
