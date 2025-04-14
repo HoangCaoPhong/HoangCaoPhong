@@ -51,11 +51,14 @@
 
 
 ## 🏆 Awards & Certifications  
-- 💻 **Python Fundamentals** – Certified by CodeLearn.io *(Mar 2025)*  
+- 📊 **Google Data Analytics Professional Certificate** – Certified by Google *(Mar 2025 – Ongoing)*  
+- 💡 **Applying AI in Learning and Research** – Certified by Student Cultural House of Ho Chi Minh City *(Apr 2025)*
+- 💻 **Python Fundamentals** – Certified by CodeLearn.io *(Mar 2025)*
 - 🏅 **Medical Imaging** – Certified by Kyoto Institute of Technology, Japan *(Feb 2025)*  
 - 🤖 **Robot Program** – Certified by the United States Consulate General, Ho Chi Minh City *(Oct 2024)*  
 - 🏆 **Third Prize – Provincial Informatics Competition** *(Oct 2023)*  
 - 💻 **Advanced C++** – Certified by CodeLearn.io *(July 2023)*  
+
 
 
 ## 💞️ Looking to Collaborate On  
