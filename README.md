@@ -6,9 +6,13 @@
 
 ## 🎓 Education  
 🎓 **Vietnam National University, Ho Chi Minh City - University of Science (HCMUS) - Ongoing**  
-- Major: **IT: Computer Science**
+- Bachelor of Science in Information Technology
+- Major: **Computer Science (AI Concentration)**
+- Honors: Selected for ICPC Regional Team – University of Science, VNU-HCM
   
 🎓 **Tran Hung Dao High school for the Gifted, Phan Thiet City, Binh Thuan, Vietnam - Graduated**  
+- Specialized in Chemistry.  
+- Honor: Selected as 1 of 6 outstanding 8th-grade students from Binh Thuan Province chosen for Chemistry Team in Talent Class for 9th Graders at Tran Hung Dao High school for the Gifted. 
 
 ## 🛠️ Skills  
 - **Languages:** C++, Python, Java, SQL, LaTeX, MATLAB  
@@ -54,9 +58,9 @@
 - 📊 **Google Data Analytics Professional Certificate** – Certified by Google *(Mar 2025 – Ongoing)*  
 - 💡 **Applying AI in Learning and Research** – Certified by Student Cultural House of Ho Chi Minh City *(Apr 2025)*
 - 💻 **Python Fundamentals** – Certified by CodeLearn.io *(Mar 2025)*
-- 🏅 **Medical Imaging** – Certified by Kyoto Institute of Technology, Japan *(Feb 2025)*  
+- 🏅 **Medical Imaging  Certification** – Certified by Kyoto Institute of Technology, Japan *(Feb 2025)*  
 - 🤖 **Robot Program** – Certified by the United States Consulate General, Ho Chi Minh City *(Oct 2024)*  
-- 🏆 **Third Prize – Provincial Informatics Competition** *(Oct 2023)*  
+- 🏆 **Third Prize – Provincial Informatics Olympiad** *(Oct 2023)*  
 - 💻 **Advanced C++** – Certified by CodeLearn.io *(July 2023)*  
 
 
