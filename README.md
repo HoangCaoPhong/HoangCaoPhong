@@ -7,7 +7,7 @@
 ## 🎓 Education  
 🎓 **Vietnam National University, Ho Chi Minh City - University of Science (HCMUS) - Ongoing**  
 - Bachelor of Science in Information Technology
-- Major: **Computer Science - AI Track(expected)**
+- Major: **Computer Science - AI Track (expected)**
 - Honors: Selected for ICPC Regional Team – University of Science, VNU-HCM
   
 🎓 **Tran Hung Dao High school for the Gifted, Phan Thiet City, Binh Thuan, Vietnam - Graduated**  
