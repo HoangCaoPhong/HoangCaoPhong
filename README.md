@@ -19,15 +19,13 @@
 - **High-performance, scalable backend systems**  
 
 ## 📫 How to Reach Me  
-📧 Email: **hoangcaophong.works@gmail.com**  
-🌐 Website: [Hoàng Cao Phong](https://hoangcaophong.github.io/) 
-🔗 GitHub: [HoangCaoPhong](https://github.com/HoangCaoPhong)  
-💼 LinkedIn: [Hoàng Cao Phong](https://www.linkedin.com/in/hoang-cao-phong)  
-📘 Facebook: [Hoàng Cao Phong](https://www.facebook.com/HoangCaoPhongVN)  
+## 📫 How to Reach Me
+- 📧 **Email:** hoangcaophong.works@gmail.com  
+- 🌐 **Website/Portfolio:** [Hoàng Cao Phong](https://hoangcaophong.github.io)  
+- 🔗 **GitHub:** [HoangCaoPhong](https://github.com/HoangCaoPhong)  
+- 💼 **LinkedIn:** [Hoàng Cao Phong](https://www.linkedin.com/in/hoang-cao-phong)  
+- 📘 **Facebook:** [Hoàng Cao Phong](https://www.facebook.com/HoangCaoPhongVN)  
 
-
-## 😄 Pronouns  
-He/Him  
 
 ## ⚡ Fun Fact  
 I enjoy **Competitive Programming**, optimizing **complex algorithms**, and designing **scalable, high-performance software systems**.  
