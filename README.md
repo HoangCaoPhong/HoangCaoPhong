@@ -19,8 +19,8 @@
 - **High-performance, scalable backend systems**  
 
 ## 📫 How to Reach Me
-- 📧 **Email:** hoangcaophong.works@gmail.com  
 - 🌐 **Website/Portfolio:** [Hoàng Cao Phong](https://hoangcaophong.github.io)  
+- 📧 **Email:** hoangcaophong.works@gmail.com  
 - 🔗 **GitHub:** [HoangCaoPhong](https://github.com/HoangCaoPhong)  
 - 💼 **LinkedIn:** [Hoàng Cao Phong](https://www.linkedin.com/in/hoang-cao-phong)  
 - 📘 **Facebook:** [Hoàng Cao Phong](https://www.facebook.com/HoangCaoPhongVN)  
