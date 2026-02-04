@@ -18,7 +18,6 @@
 - **Machine Learning research & real-world applications**  
 - **High-performance, scalable backend systems**  
 
-## 📫 How to Reach Me  
 ## 📫 How to Reach Me
 - 📧 **Email:** hoangcaophong.works@gmail.com  
 - 🌐 **Website/Portfolio:** [Hoàng Cao Phong](https://hoangcaophong.github.io)  
