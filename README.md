@@ -5,7 +5,7 @@
 - 🚀 Open to **collaborations and internships** in AI, software engineering, and science research.  
 
 ## 🎓 Education  
-🎓 **Vietnam National University, Ho Chi Minh City - University of Science (HCMUS) - Ongoing**  
+🎓 **Vietnam National University Ho Chi Minh City - University of Science (HCMUS) - Ongoing**  
 - Bachelor of Science - English Intensive Program in Information Technology
 - Specialization: **Computer Science - Computer Vision Track**
 - Honors: Selected for ICPC Team – University of Science, VNU-HCM
